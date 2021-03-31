@@ -4,7 +4,6 @@
 
 Here are some quick things about me:
 
-- 🔭 A Software Engineer employed by [@更美APP](https://www.igengmei.com)
 - 🧑‍Like Coding.
 - 💻 Years of experience working with Python and Go.
 - 📫 The best way to reach me is to send me an email.
